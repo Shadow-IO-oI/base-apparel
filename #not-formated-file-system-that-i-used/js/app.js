@@ -12,7 +12,6 @@ flsFunctions.isWebp();
 
 /*
 Parallax mouse module
-Documentation: https://template.fls.guru/template-docs/modul-animacii-parallaks-obektov-pri-dvizhenii-myshi.html
 */
 import './libs/parallax-mouse.js'
 
