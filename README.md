@@ -45,5 +45,6 @@ Users should be able to:
 
 - Frontend Mentor - [@Shadow-IO-oI](https://www.frontendmentor.io/profile/Shadow-IO-oI)
 
+## I was inspired by
 - Frontend Mentor - [@visualdenniss](https://www.frontendmentor.io/profile/visualdenniss)
 
